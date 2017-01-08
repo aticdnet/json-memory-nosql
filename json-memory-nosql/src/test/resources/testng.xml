@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Parallel test suite" parallel="methods" thread-count="100">
+  <test name="Concurrent">
+    <classes>
+      <class name="fr.mmtc.json.memory.manager.NoSQLManagerNGTest"/>
+    </classes>
+  </test>
+</suite>

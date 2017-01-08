@@ -1,0 +1,67 @@
+{
+    "cars": [
+        {
+            "model": {
+                "marque": "Citroën",
+                "modèle": "Berlingo multispace",
+                "finition": "Feel",
+                "moteur": "BlueHDI 75",
+                "carburant": "Diesel"
+            },
+            "engine": {    
+                "type du moteur": "4 cylindres en Ligne",
+                "Cylindrée": 1560,
+                "Puissance": [75, -1],
+                "Transmission": 5,
+                "Type de transmission": "Boîte manuelle",
+                "Couple": [233, -1],
+                "Puissance fiscale": 4
+            },
+            "performance": {    
+                "0 à 100": 15.1,
+                "Vitesse maximum": 156
+            },
+            "chassis": {
+                "Nombre de place": 5,
+                "Poids à vide": 1374,
+                "Volume du coffre": [675, 3000],
+                "Dimensions": [4380, 1810, 1860],
+                "Pneumatiques": ["205/65 R15", "205/65 R15"]
+            },
+            "consumption": {
+                "Consommation urbaine": 5.1,
+                "Consommation mixte": 4.3,
+                "Consommation extra-urbaine": 3.9
+            },
+            "other": {
+                "Normes de polution": "Euro 6",
+                "Emission CO2": 113,
+                "Catégorie": "B"
+            }
+        },
+        {
+            "model": {
+                "marque": "Citroën",
+                "modèle": "C3"
+            }
+        },
+        {
+            "model": {
+                "marque": "Citroën",
+                "modèle": "C4"
+            }
+        },
+        {
+            "model": {
+                "marque": "Peugeot",
+                "modèle": "308"
+            }
+        },
+        {
+            "model": {
+                "marque": "Renault",
+                "modèle": "Clio"
+            }
+        }
+    ]
+}

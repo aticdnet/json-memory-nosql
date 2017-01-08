@@ -1,6 +1,6 @@
 # json-memory-nosql
 
-json-memory-nosql manage nosql database in memory
+json-memory-nosql is a microservice who manage a nosql database in memory
 
 ## add new document into a repository
 

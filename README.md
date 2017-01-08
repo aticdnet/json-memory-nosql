@@ -31,3 +31,7 @@ FilterQuery {
 	fieldPathName (string, optional),
 	value (string, optional)
 }'
+
+## build
+
+'mvn clean install'
